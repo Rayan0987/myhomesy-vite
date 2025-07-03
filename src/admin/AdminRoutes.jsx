@@ -3,7 +3,7 @@ import { Navigate, Routes, Route } from "react-router-dom";
 import AdminDashboard from "./AdminDashboard";
 import PropertiesManagement from "./PropertiesManagement";
 import UsersManagement from "./UsersManagement";
-import ProjectsManagement from "./ProjectsManagement";
+import ProjectsManagement from "./projectsManagement"; 
 import MessagesManagement from "./MessagesManagement";
 import AdminSidebar from "./AdminSidebar";
 

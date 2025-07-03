@@ -1,4 +1,3 @@
-// src/admin/AdminAuthContext.jsx
 import React, { createContext, useContext, useState } from "react";
 
 const AdminAuthContext = createContext();
